@@ -1,0 +1,5332 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122098,
+        "longitudeE7" : 768289753
+      },
+      "endLocation" : {
+        "latitudeE7" : 307274685,
+        "longitudeE7" : 768451046
+      },
+      "duration" : {
+        "startTimestampMs" : "1583295935402",
+        "endTimestampMs" : "1583296815256"
+      },
+      "distance" : 3923,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.69513201713562
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.7207205295562744
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.502842828631401
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.48414450138807297
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3757902653887868
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.11128127807751298
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.031216483330354095
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.02630770904943347
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.022186127898748964
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01490790891693905
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0051897106459364295
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003753967030206695
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003529278183123097
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0029619397537317127
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.940309625249938E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        }, {
+          "latE7" : 307310523,
+          "lngE7" : 768299560
+        }, {
+          "latE7" : 307272357,
+          "lngE7" : 768454818
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 84.9862
+      },
+      "duration" : {
+        "startTimestampMs" : "1583296815256",
+        "endTimestampMs" : "1583313436887"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307267839,
+      "centerLngE7" : 768450880,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 14.546339
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.34275022
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.07971621
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.03469585
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307273783,
+        "longitudeE7" : 768455865
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122348,
+        "longitudeE7" : 768289256
+      },
+      "duration" : {
+        "startTimestampMs" : "1583313436887",
+        "endTimestampMs" : "1583314022638"
+      },
+      "distance" : 3511,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.94222497940063
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.941427543759346
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.4764264225959778
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.22054165601730347
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2041974337771535
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09514912962913513
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04570725723169744
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03576216695364565
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.015480778529308736
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.012639848864637315
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0039759903302183375
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003202198422513902
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.002786462937365286
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.5464025788533036E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.3079878985754476E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307273235,
+          "lngE7" : 768454360
+        }, {
+          "latE7" : 307254810,
+          "lngE7" : 768462600
+        }, {
+          "latE7" : 307248554,
+          "lngE7" : 768446426
+        }, {
+          "latE7" : 307309722,
+          "lngE7" : 768304214
+        }, {
+          "latE7" : 307122383,
+          "lngE7" : 768289337
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307251778,
+          "lngE7" : 768449402,
+          "timestampMs" : "1583313529626",
+          "accuracyMeters" : 51
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.96637
+      },
+      "duration" : {
+        "startTimestampMs" : "1583314022638",
+        "endTimestampMs" : "1583324308000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122380,
+      "centerLngE7" : 768289261,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.943572
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.6401677
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.12061257
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08219781
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122245,
+        "longitudeE7" : 768289402
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122083,
+        "longitudeE7" : 768289287
+      },
+      "duration" : {
+        "startTimestampMs" : "1583324308000",
+        "endTimestampMs" : "1583325198285"
+      },
+      "distance" : 1550,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 64.59378600120544
+      }, {
+        "activityType" : "STILL",
+        "probability" : 28.47309708595276
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.117798432707787
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.474607527256012
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.1951912185177207
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05541865830309689
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.042735267197713256
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01975386549020186
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.012667458213400096
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007121434464352205
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005738273466704413
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0014325019947136752
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.613988378172508E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 7.454333967871207E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0604193079188917E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122268,
+          "lngE7" : 768289413
+        }, {
+          "latE7" : 307140522,
+          "lngE7" : 768301162
+        }, {
+          "latE7" : 307140350,
+          "lngE7" : 768301315
+        }, {
+          "latE7" : 307121353,
+          "lngE7" : 768328704
+        }, {
+          "latE7" : 307152500,
+          "lngE7" : 768319854
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307140446,
+          "lngE7" : 768301468,
+          "timestampMs" : "1583324504000",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.9936
+      },
+      "duration" : {
+        "startTimestampMs" : "1583325198285",
+        "endTimestampMs" : "1583469806051"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122491,
+      "centerLngE7" : 768289206,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.0687125
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4224905
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.14306925
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08694401
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122236,
+        "longitudeE7" : 768289482
+      },
+      "endLocation" : {
+        "latitudeE7" : 307271084,
+        "longitudeE7" : 768452856
+      },
+      "duration" : {
+        "startTimestampMs" : "1583469806051",
+        "endTimestampMs" : "1583470660609"
+      },
+      "distance" : 3515,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.65171504020691
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4078698121011257
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1540661565959454
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4378542769700289
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.1881001517176628
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.08754938025958836
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.021417264360934496
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01623855932848528
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01579276577103883
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.011078371608164161
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0025551820726832375
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0023807853722246364
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0022522881408804096
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0011091450687672477
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.9887934854523337E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122211,
+          "lngE7" : 768289489
+        }, {
+          "latE7" : 307310523,
+          "lngE7" : 768299560
+        }, {
+          "latE7" : 307271060,
+          "lngE7" : 768452758
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 69.590034
+      },
+      "duration" : {
+        "startTimestampMs" : "1583470660609",
+        "endTimestampMs" : "1583496737241"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307267980,
+      "centerLngE7" : 768450602,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 29.973951
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.31223395
+      }, {
+        "latitudeE7" : 307284565,
+        "longitudeE7" : 768449446,
+        "placeId" : "ChIJo9s9fmWTDzkRr2WzwQ1Lzy0",
+        "locationConfidence" : 0.07448052
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.038210705
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307259382,
+        "longitudeE7" : 768458095
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122149,
+        "longitudeE7" : 768288726
+      },
+      "duration" : {
+        "startTimestampMs" : "1583496737241",
+        "endTimestampMs" : "1583498172523"
+      },
+      "distance" : 5332,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.22899436950684
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.708968132734299
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.850150503218174
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.4666717275977135
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.43379063718020916
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.18618766916915774
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.059188203886151314
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.020525352738332003
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.015230443386826664
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.01417530293110758
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006491048407042399
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.005010833774576895
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0031861523893894628
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001317354053753661
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1057769597755396E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307259426,
+          "lngE7" : 768458175
+        }, {
+          "latE7" : 307256317,
+          "lngE7" : 768462829
+        }, {
+          "latE7" : 307273750,
+          "lngE7" : 768411865
+        }, {
+          "latE7" : 307309722,
+          "lngE7" : 768304214
+        }, {
+          "latE7" : 307154369,
+          "lngE7" : 768287658
+        }, {
+          "latE7" : 307121353,
+          "lngE7" : 768328704
+        }, {
+          "latE7" : 307154674,
+          "lngE7" : 768317718
+        }, {
+          "latE7" : 307156009,
+          "lngE7" : 768316421
+        }, {
+          "latE7" : 307122497,
+          "lngE7" : 768289184
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307269535,
+          "lngE7" : 768409805,
+          "timestampMs" : "1583496859204",
+          "accuracyMeters" : 66
+        }, {
+          "latE7" : 307154617,
+          "lngE7" : 768288040,
+          "timestampMs" : "1583497231197",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 307155018,
+          "lngE7" : 768318939,
+          "timestampMs" : "1583497843192",
+          "accuracyMeters" : 32
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.99906
+      },
+      "duration" : {
+        "startTimestampMs" : "1583498172523",
+        "endTimestampMs" : "1583565853193"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122590,
+      "centerLngE7" : 768289260,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.0358646
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4909428
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13369721
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.0802995
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307121725,
+        "longitudeE7" : 768290017
+      },
+      "endLocation" : {
+        "latitudeE7" : 307104646,
+        "longitudeE7" : 768400454
+      },
+      "duration" : {
+        "startTimestampMs" : "1583565853193",
+        "endTimestampMs" : "1583566724954"
+      },
+      "distance" : 1417,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.2061493396759
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.3981770277023315
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.6178861260414124
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.5108131803572178
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.13251550262793899
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05122664733789861
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.04085692053195089
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02126582694472745
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.011501135304570198
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006983273488003761
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0016345629774150439
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 4.7204221118590795E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 3.813499461102765E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.261206307390239E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.354213866188729E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307121696,
+          "lngE7" : 768290023
+        }, {
+          "latE7" : 307093029,
+          "lngE7" : 768393707
+        }, {
+          "latE7" : 307103900,
+          "lngE7" : 768400955
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307106022,
+        "longitudeE7" : 768401582,
+        "placeId" : "ChIJ2V5vszuTDzkRuRtqQf6V0uk",
+        "address" : "Pocket - 1Manimajra\nSCO-36, Pocket-1\nManimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "ICICI Bank Manimajra, Chandigarh - Branch & ATM",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 67.57393
+      },
+      "duration" : {
+        "startTimestampMs" : "1583566724954",
+        "endTimestampMs" : "1583569683236"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307104338,
+      "centerLngE7" : 768400662,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307105606,
+        "longitudeE7" : 768408703,
+        "placeId" : "ChIJo94rLZLsDzkRwik7P3fh3Y4",
+        "locationConfidence" : 26.660301
+      }, {
+        "latitudeE7" : 307104366,
+        "longitudeE7" : 768399493,
+        "placeId" : "ChIJh10eNjqTDzkR6QrDB17gpCs",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.507065
+      }, {
+        "latitudeE7" : 307102778,
+        "longitudeE7" : 768400000,
+        "placeId" : "ChIJfcIK4saTDzkRtozYcT0oq_U",
+        "locationConfidence" : 1.6813624
+      }, {
+        "latitudeE7" : 307105480,
+        "longitudeE7" : 768400586,
+        "placeId" : "ChIJmdADSjqTDzkRGd63xxxDV10",
+        "locationConfidence" : 0.41982457
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307104357,
+        "longitudeE7" : 768400679
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122129,
+        "longitudeE7" : 768289609
+      },
+      "duration" : {
+        "startTimestampMs" : "1583569683236",
+        "endTimestampMs" : "1583570417012"
+      },
+      "distance" : 1689,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.12441539764404
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.257381498813629
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.1373966708779335
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.9532484225928783
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.34929856192320585
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08341828361153603
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.03973679558839649
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.021410221233963966
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.01848373794928193
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.009258920181309804
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0039030976040521637
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0013028552530158777
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 4.146641913393978E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.2076759453048E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1225586149521405E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307103919,
+          "lngE7" : 768400955
+        }, {
+          "latE7" : 307124500,
+          "lngE7" : 768426208
+        }, {
+          "latE7" : 307104415,
+          "lngE7" : 768417587
+        }, {
+          "latE7" : 307094173,
+          "lngE7" : 768398284
+        }, {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307101288,
+          "lngE7" : 768419800,
+          "timestampMs" : "1583569810198",
+          "accuracyMeters" : 82
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.200905
+      },
+      "duration" : {
+        "startTimestampMs" : "1583570417012",
+        "endTimestampMs" : "1583590057565"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122145,
+      "centerLngE7" : 768289343,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.8940182
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4383513
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.12545659
+      }, {
+        "latitudeE7" : 307139740,
+        "longitudeE7" : 768268990,
+        "placeId" : "ChIJOZ8jWy2TDzkRdf3Zex2vMaA",
+        "locationConfidence" : 0.08108526
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122163,
+        "longitudeE7" : 768290424
+      },
+      "endLocation" : {
+        "latitudeE7" : 307153658,
+        "longitudeE7" : 768337213
+      },
+      "duration" : {
+        "startTimestampMs" : "1583590057565",
+        "endTimestampMs" : "1583590554038"
+      },
+      "distance" : 783,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 76.4180839061737
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 11.516975611448288
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.478891521692276
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.473172500729561
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9300895966589451
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06035557598806918
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.060087040765210986
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.030059542041271925
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.019470795814413577
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006477686838479713
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0028788830604753457
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002538363332860172
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 7.859654033381958E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.0801977623486891E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.7581609174376354E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122402,
+          "lngE7" : 768290176
+        }, {
+          "latE7" : 307125797,
+          "lngE7" : 768337478
+        }, {
+          "latE7" : 307154178,
+          "lngE7" : 768336639
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307152940,
+        "longitudeE7" : 768334654,
+        "placeId" : "ChIJ7YJwTi6TDzkRU2tlKPNIg_o",
+        "address" : "Shanti Nagar, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "Positive Collection",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 51.52793
+      },
+      "duration" : {
+        "startTimestampMs" : "1583590554038",
+        "endTimestampMs" : "1583591047384"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307153200,
+      "centerLngE7" : 768336780,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307150399,
+        "longitudeE7" : 768332465,
+        "placeId" : "ChIJcZZIai6TDzkRTpD4CM9YD9g",
+        "locationConfidence" : 26.711494
+      }, {
+        "latitudeE7" : 307153480,
+        "longitudeE7" : 768338260,
+        "placeId" : "ChIJRQPfOC6TDzkRexajQmlyOns",
+        "locationConfidence" : 6.6820383
+      }, {
+        "latitudeE7" : 307151550,
+        "longitudeE7" : 768337220,
+        "placeId" : "ChIJ1aadOS6TDzkRNL7wR11qP1U",
+        "locationConfidence" : 4.539306
+      }, {
+        "latitudeE7" : 307156603,
+        "longitudeE7" : 768346190,
+        "placeId" : "ChIJIzgztS-TDzkRyw3KZvzR6YU",
+        "locationConfidence" : 3.5679047
+      }, {
+        "latitudeE7" : 307158056,
+        "longitudeE7" : 768317817,
+        "placeId" : "ChIJS2kedy6TDzkRGwn9ClJXFIg",
+        "locationConfidence" : 1.8300688
+      }, {
+        "latitudeE7" : 307132090,
+        "longitudeE7" : 768350150,
+        "placeId" : "ChIJC6NoMTCTDzkRvxXqS3IMfKU",
+        "locationConfidence" : 1.488726
+      }, {
+        "latitudeE7" : 307130450,
+        "longitudeE7" : 768345380,
+        "placeId" : "ChIJ3efaNsuTDzkRUNKC3Xo8gtE",
+        "locationConfidence" : 0.8123128
+      }, {
+        "latitudeE7" : 307174705,
+        "longitudeE7" : 768327848,
+        "placeId" : "ChIJRXICji6TDzkR18rKJialT4M",
+        "locationConfidence" : 0.6999796
+      }, {
+        "latitudeE7" : 307157811,
+        "longitudeE7" : 768319818,
+        "placeId" : "ChIJf1Phdi6TDzkRspfk0v-T6WA",
+        "locationConfidence" : 0.6266273
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307151684,
+        "longitudeE7" : 768334674
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122245,
+        "longitudeE7" : 768288917
+      },
+      "duration" : {
+        "startTimestampMs" : "1583591047384",
+        "endTimestampMs" : "1583591418204"
+      },
+      "distance" : 829,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.55899548530579
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 10.747972130775452
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.437356069684029
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.1128599755465984
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8943085558712482
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07621324621140957
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06727860309183598
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06386841996572912
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.023591757053509355
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006538422894664109
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005101523129269481
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004668600740842521
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0010165030289499555
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.0481650153669761E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.2900441365436564E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307151679,
+          "lngE7" : 768334960
+        }, {
+          "latE7" : 307121334,
+          "lngE7" : 768330841
+        }, {
+          "latE7" : 307122497,
+          "lngE7" : 768289184
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.07652
+      },
+      "duration" : {
+        "startTimestampMs" : "1583591418204",
+        "endTimestampMs" : "1583662597567"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122709,
+      "centerLngE7" : 768289264,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.9763614
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4715606
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13493438
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08106366
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122055,
+        "longitudeE7" : 768289759
+      },
+      "endLocation" : {
+        "latitudeE7" : 307158177,
+        "longitudeE7" : 768318134
+      },
+      "duration" : {
+        "startTimestampMs" : "1583662597567",
+        "endTimestampMs" : "1583662845423"
+      },
+      "distance" : 683,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 67.16514825820923
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 27.45298147201538
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.0649764239788055
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8866677060723305
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.23498013615608215
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06747259176336229
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06573615828529
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.025270262267440557
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.024707542615942657
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006712182221235707
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0020603434677468613
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0017569123883731663
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0014646573617937975
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.7487122856182395E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4599228848055645E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        }, {
+          "latE7" : 307121353,
+          "lngE7" : 768328704
+        }, {
+          "latE7" : 307157745,
+          "lngE7" : 768317947
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307158056,
+        "longitudeE7" : 768317817,
+        "placeId" : "ChIJS2kedy6TDzkRGwn9ClJXFIg",
+        "address" : "Modern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "MHC Market",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 85.946724
+      },
+      "duration" : {
+        "startTimestampMs" : "1583662845423",
+        "endTimestampMs" : "1583663702225"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307158856,
+      "centerLngE7" : 768318244,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307157811,
+        "longitudeE7" : 768319818,
+        "placeId" : "ChIJf1Phdi6TDzkRspfk0v-T6WA",
+        "locationConfidence" : 6.310431
+      }, {
+        "latitudeE7" : 307160181,
+        "longitudeE7" : 768316908,
+        "placeId" : "ChIJ____vy2TDzkR4-rM_N9ir7k",
+        "locationConfidence" : 1.899919
+      }, {
+        "latitudeE7" : 307159379,
+        "longitudeE7" : 768318383,
+        "placeId" : "ChIJ8WuMdy6TDzkRvymlzFr9nCg",
+        "locationConfidence" : 1.8478233
+      }, {
+        "latitudeE7" : 307160203,
+        "longitudeE7" : 768317857,
+        "placeId" : "ChIJbZcReC6TDzkRR1Q6eXEenv8",
+        "locationConfidence" : 1.8330036
+      }, {
+        "latitudeE7" : 307160530,
+        "longitudeE7" : 768313240,
+        "placeId" : "ChIJQ4_a0C2TDzkRms7fET5lCyM",
+        "locationConfidence" : 0.50017077
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307158394,
+        "longitudeE7" : 768317125
+      },
+      "endLocation" : {
+        "latitudeE7" : 307121928,
+        "longitudeE7" : 768290095
+      },
+      "duration" : {
+        "startTimestampMs" : "1583663702225",
+        "endTimestampMs" : "1583664065279"
+      },
+      "distance" : 759,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 72.47955203056335
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 22.52257615327835
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.63454706966877
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8326382376253605
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.3785938024520874
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.045838276855647564
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0393320427974686
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03731901233550161
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02103909500874579
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004588172669173218
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002163976023439318
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0013929299711890053
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 3.864828158839373E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.318088831998466E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.903015131205393E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307158527,
+          "lngE7" : 768317337
+        }, {
+          "latE7" : 307121334,
+          "lngE7" : 768330841
+        }, {
+          "latE7" : 307121791,
+          "lngE7" : 768289871
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.26038
+      },
+      "duration" : {
+        "startTimestampMs" : "1583664065279",
+        "endTimestampMs" : "1583720853353"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122469,
+      "centerLngE7" : 768289258,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.847001
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4434823
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.12731187
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.07516377
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122422,
+        "longitudeE7" : 768289679
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122367,
+        "longitudeE7" : 768289559
+      },
+      "duration" : {
+        "startTimestampMs" : "1583720853353",
+        "endTimestampMs" : "1583721887000"
+      },
+      "distance" : 6346,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.79365825653076
+      }, {
+        "activityType" : "STILL",
+        "probability" : 6.229544430971146
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.0401008427143097
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.3230747543275356
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.338997645303607
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10314063401892781
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06636250764131546
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05065322620794177
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.025623771944083273
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01238622353412211
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.008273553248727694
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007275378447957337
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.4202270146342926E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 4.4084476940042805E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.99460629346504E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122192,
+          "lngE7" : 768289871
+        }, {
+          "latE7" : 307218360,
+          "lngE7" : 768190765
+        }, {
+          "latE7" : 307357158,
+          "lngE7" : 768119659
+        }, {
+          "latE7" : 307200279,
+          "lngE7" : 768228149
+        }, {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307357540,
+          "lngE7" : 768118134,
+          "timestampMs" : "1583721339238",
+          "accuracyMeters" : 92
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.13893
+      },
+      "duration" : {
+        "startTimestampMs" : "1583721887000",
+        "endTimestampMs" : "1583727131259"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122436,
+      "centerLngE7" : 768289231,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.3537114
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.8852968
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.17045859
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.10364669
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307128131,
+        "longitudeE7" : 768295033
+      },
+      "endLocation" : {
+        "latitudeE7" : 307260785,
+        "longitudeE7" : 768454279
+      },
+      "duration" : {
+        "startTimestampMs" : "1583727131259",
+        "endTimestampMs" : "1583727747914"
+      },
+      "distance" : 2548,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.28985714912415
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.8171008452773094
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.6242476180195808
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6312666926532984
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4268337972462177
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.13597466750070453
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.03634260792750865
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.016613253683317453
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.008282335329568014
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004969332439941354
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004808578523807228
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0015085231098055374
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001194196374854073
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.775966645975132E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.1015360118781246E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307128200,
+          "lngE7" : 768295135
+        }, {
+          "latE7" : 307197628,
+          "lngE7" : 768249130
+        }, {
+          "latE7" : 307261676,
+          "lngE7" : 768457260
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 84.41734
+      },
+      "duration" : {
+        "startTimestampMs" : "1583727747914",
+        "endTimestampMs" : "1583741897330"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307267824,
+      "centerLngE7" : 768450525,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 15.36602
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.13672614
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.039819885
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.031444117
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307267816,
+        "longitudeE7" : 768450486
+      },
+      "endLocation" : {
+        "latitudeE7" : 307126733,
+        "longitudeE7" : 768291718
+      },
+      "duration" : {
+        "startTimestampMs" : "1583741897330",
+        "endTimestampMs" : "1583742627079"
+      },
+      "distance" : 3132,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.94424438476562
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.776967436075211
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.7666194587945938
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5305034574121237
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.47535314224660397
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.25948910042643547
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1584673998877406
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.038132283953018486
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02447043952997774
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.010073793964693323
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.007668709440622479
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003957831359002739
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0024066637706710026
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0015907708075246774
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.6333971087951795E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307269039,
+          "lngE7" : 768453750
+        }, {
+          "latE7" : 307283000,
+          "lngE7" : 768446655
+        }, {
+          "latE7" : 307254810,
+          "lngE7" : 768462600
+        }, {
+          "latE7" : 307274742,
+          "lngE7" : 768409194
+        }, {
+          "latE7" : 307198200,
+          "lngE7" : 768249206
+        }, {
+          "latE7" : 307127742,
+          "lngE7" : 768290710
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307278652,
+          "lngE7" : 768450928,
+          "timestampMs" : "1583742018353",
+          "accuracyMeters" : 45
+        }, {
+          "latE7" : 307270031,
+          "lngE7" : 768406830,
+          "timestampMs" : "1583742260403",
+          "accuracyMeters" : 44
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 93.65092
+      },
+      "duration" : {
+        "startTimestampMs" : "1583742627079",
+        "endTimestampMs" : "1583743900442"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307123017,
+      "centerLngE7" : 768290067,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.8927906
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.7272804
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.1804897
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13885483
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307126603,
+        "longitudeE7" : 768295463
+      },
+      "endLocation" : {
+        "latitudeE7" : 307274139,
+        "longitudeE7" : 768451307
+      },
+      "duration" : {
+        "startTimestampMs" : "1583743900442",
+        "endTimestampMs" : "1583744525344"
+      },
+      "distance" : 3253,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.8159167766571
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.0283361673355103
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.1194037050008774
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4153244197368622
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.2701015444472432
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.19705493468791246
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07171038305386901
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.031260852119885385
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02684404025785625
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.011847905261674896
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004940151848131791
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030972521926742047
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.003086959623033181
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0010295172614860348
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.0137152268471255E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307126426,
+          "lngE7" : 768295593
+        }, {
+          "latE7" : 307197628,
+          "lngE7" : 768249130
+        }, {
+          "latE7" : 307281494,
+          "lngE7" : 768450241
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 78.49733
+      },
+      "duration" : {
+        "startTimestampMs" : "1583744525344",
+        "endTimestampMs" : "1583752306265"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307267971,
+      "centerLngE7" : 768450522,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 20.380262
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.9533655
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.05916389
+      }, {
+        "latitudeE7" : 307284565,
+        "longitudeE7" : 768449446,
+        "placeId" : "ChIJo9s9fmWTDzkRr2WzwQ1Lzy0",
+        "locationConfidence" : 0.05521986
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307259675,
+        "longitudeE7" : 768454812
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122394,
+        "longitudeE7" : 768289547
+      },
+      "duration" : {
+        "startTimestampMs" : "1583752306265",
+        "endTimestampMs" : "1583752925274"
+      },
+      "distance" : 3675,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.91552686691284
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 8.356787264347076
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.843707635998726
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4595668986439705
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.18907645717263222
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.1283230958506465
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04009407421108335
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.026783347129821777
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.019597489153966308
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.009165672236122191
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.007442269998136908
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0018678885680856183
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0014995074707258027
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 5.226583652984118E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.9704144683128106E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307260551,
+          "lngE7" : 768457717
+        }, {
+          "latE7" : 307268733,
+          "lngE7" : 768425903
+        }, {
+          "latE7" : 307272148,
+          "lngE7" : 768416213
+        }, {
+          "latE7" : 307198200,
+          "lngE7" : 768249206
+        }, {
+          "latE7" : 307122154,
+          "lngE7" : 768289794
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307265949,
+          "lngE7" : 768413162,
+          "timestampMs" : "1583752427287",
+          "accuracyMeters" : 38
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.09148
+      },
+      "duration" : {
+        "startTimestampMs" : "1583752925274",
+        "endTimestampMs" : "1583843009299"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122442,
+      "centerLngE7" : 768289238,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.006327
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.3976327
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13594623
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08438055
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122165,
+        "longitudeE7" : 768289734
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122527,
+        "longitudeE7" : 768290212
+      },
+      "duration" : {
+        "startTimestampMs" : "1583843009299",
+        "endTimestampMs" : "1583844646204"
+      },
+      "distance" : 1990,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 60.22590398788452
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.245260298252106
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.910392880439758
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 6.877366453409195
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.076161608099937
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.492782611399889
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09061589371412992
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.031072227284312248
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.023383386724162847
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.015597102174069732
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005688022429239936
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004269294367986731
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 9.012692316900939E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 5.263927960186265E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.335973464250856E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        }, {
+          "latE7" : 307121887,
+          "lngE7" : 768279037
+        }, {
+          "latE7" : 307127246,
+          "lngE7" : 768268585
+        }, {
+          "latE7" : 307117156,
+          "lngE7" : 768282623
+        }, {
+          "latE7" : 307095909,
+          "lngE7" : 768339996
+        }, {
+          "latE7" : 307129077,
+          "lngE7" : 768306427
+        }, {
+          "latE7" : 307122478,
+          "lngE7" : 768290252
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307127361,
+          "lngE7" : 768268661,
+          "timestampMs" : "1583843379189",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 307098103,
+          "lngE7" : 768339615,
+          "timestampMs" : "1583843986193",
+          "accuracyMeters" : 23
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.40804
+      },
+      "duration" : {
+        "startTimestampMs" : "1583844646204",
+        "endTimestampMs" : "1583902625020"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122482,
+      "centerLngE7" : 768288898,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.0312119
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.0884339
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.1399471
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08065586
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122123,
+        "longitudeE7" : 768289387
+      },
+      "endLocation" : {
+        "latitudeE7" : 307275622,
+        "longitudeE7" : 768450403
+      },
+      "duration" : {
+        "startTimestampMs" : "1583902625020",
+        "endTimestampMs" : "1583903282205"
+      },
+      "distance" : 3547,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.81484293937683
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.4917634204030037
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.8204189836978912
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.41111139580607414
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3032851265743375
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.08043067646212876
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.02513857907615602
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.016237662930507213
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.015004879969637841
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.012919257278554142
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030521950975526124
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.002467854028509464
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0023698499717283994
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.354386747872923E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.111251689029814E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        }, {
+          "latE7" : 307310523,
+          "lngE7" : 768299560
+        }, {
+          "latE7" : 307275638,
+          "lngE7" : 768450469
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 86.92019
+      },
+      "duration" : {
+        "startTimestampMs" : "1583903282205",
+        "endTimestampMs" : "1583925183199"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307267239,
+      "centerLngE7" : 768450733,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 12.9160795
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.115922585
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.03194032
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.0025033285
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307259251,
+        "longitudeE7" : 768455802
+      },
+      "endLocation" : {
+        "latitudeE7" : 307121954,
+        "longitudeE7" : 768289940
+      },
+      "duration" : {
+        "startTimestampMs" : "1583925183199",
+        "endTimestampMs" : "1583925789205"
+      },
+      "distance" : 2487,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 81.66341781616211
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.74248617887497
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.75805052369833
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.31507336534559727
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.1735219731926918
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.16425447538495064
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0723581702914089
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.06049602525308728
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.024478131672367454
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.014204080798663199
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0064084320911206305
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030896571843186393
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0019867686205543578
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.3992128060635878E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.6519330137707584E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307259922,
+          "lngE7" : 768458023
+        }, {
+          "latE7" : 307264785,
+          "lngE7" : 768432922
+        }, {
+          "latE7" : 307266101,
+          "lngE7" : 768432235
+        }, {
+          "latE7" : 307309722,
+          "lngE7" : 768304214
+        }, {
+          "latE7" : 307121868,
+          "lngE7" : 768289794
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307265739,
+          "lngE7" : 768431320,
+          "timestampMs" : "1583925305213",
+          "accuracyMeters" : 73
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.070724
+      },
+      "duration" : {
+        "startTimestampMs" : "1583925789205",
+        "endTimestampMs" : "1583989561212"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122139,
+      "centerLngE7" : 768289272,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.947598
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.5033746
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13703975
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08257873
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122828,
+        "longitudeE7" : 768289079
+      },
+      "endLocation" : {
+        "latitudeE7" : 307272744,
+        "longitudeE7" : 768456984
+      },
+      "duration" : {
+        "startTimestampMs" : "1583989561212",
+        "endTimestampMs" : "1583990500968"
+      },
+      "distance" : 2674,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.6635901927948
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.074226714670658
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.2700192630290985
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.49867182970046997
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.25630148593336344
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09843691950663924
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04216961388010532
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.03455368860159069
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.026171270292252302
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.018307937716599554
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0074240597314201295
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004411369809531607
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003774536889977753
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0019065757442149334
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.6204040182165045E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307143840,
+          "lngE7" : 768298721
+        }, {
+          "latE7" : 307150478,
+          "lngE7" : 768291397
+        }, {
+          "latE7" : 307262325,
+          "lngE7" : 768459777
+        }, {
+          "latE7" : 307265605,
+          "lngE7" : 768458175
+        }, {
+          "latE7" : 307272014,
+          "lngE7" : 768454971
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307261658,
+          "lngE7" : 768457947,
+          "timestampMs" : "1583990258825",
+          "accuracyMeters" : 35
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 80.73504
+      },
+      "duration" : {
+        "startTimestampMs" : "1583990500968",
+        "endTimestampMs" : "1584003111630"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307268762,
+      "centerLngE7" : 768450348,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 18.860785
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.28668508
+      }, {
+        "latitudeE7" : 307284565,
+        "longitudeE7" : 768449446,
+        "placeId" : "ChIJo9s9fmWTDzkRr2WzwQ1Lzy0",
+        "locationConfidence" : 0.076526046
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.032946244
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307258034,
+        "longitudeE7" : 768450384
+      },
+      "endLocation" : {
+        "latitudeE7" : 307277670,
+        "longitudeE7" : 768457734
+      },
+      "duration" : {
+        "startTimestampMs" : "1584003111630",
+        "endTimestampMs" : "1584003242134"
+      },
+      "distance" : 229,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 71.83367013931274
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.58795040845871
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 4.949427768588066
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.2453866191208363
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 1.0263070464134216
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7432887796312571
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.402297405526042
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.08117977995425463
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07639313698746264
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.021866877796128392
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.016764941392466426
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.008635524136479944
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006160587508929893
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 5.012471319787437E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.6641122329019709E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307260284,
+          "lngE7" : 768457870
+        }, {
+          "latE7" : 307258796,
+          "lngE7" : 768463516
+        }, {
+          "latE7" : 307277660,
+          "lngE7" : 768457717
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "address" : "Plot Number 22-23, IT Park\nPhase - I, Manimajra, Kishangarh\nPhase - I, Manimajra\nChandigarh, Haryana 161101\nIndia",
+        "name" : "DLF City Centre Mall",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.32779
+      },
+      "duration" : {
+        "startTimestampMs" : "1584003242134",
+        "endTimestampMs" : "1584004910689"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 307291620,
+          "longitudeE7" : 768460090,
+          "placeId" : "ChIJpQr_A9-SDzkRNK0Lm_GfOxk",
+          "address" : "DLF City Centre Mall\n2nd floor, Plot No\n22/23, IT Park Rd\nPhase - I, Manimajra\nChandigarh, Haryana 160017\nIndia",
+          "name" : "DT City Centre Mall Chandigarh",
+          "sourceInfo" : {
+            "deviceTag" : 1618641238
+          },
+          "locationConfidence" : 26.505592
+        },
+        "duration" : {
+          "startTimestampMs" : "1584003242134",
+          "endTimestampMs" : "1584004910689"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 307286600,
+        "centerLngE7" : 768455000,
+        "visitConfidence" : 91,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 307288200,
+          "longitudeE7" : 768449862,
+          "placeId" : "ChIJs-sfG9-SDzkRMPIKGvVVgLs",
+          "locationConfidence" : 25.800564
+        }, {
+          "latitudeE7" : 307289951,
+          "longitudeE7" : 768453619,
+          "placeId" : "ChIJk0FmcSCTDzkRwf0U0GweBNI",
+          "locationConfidence" : 19.61012
+        }, {
+          "latitudeE7" : 307275903,
+          "longitudeE7" : 768446617,
+          "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+          "locationConfidence" : 14.120184
+        }, {
+          "latitudeE7" : 307286656,
+          "longitudeE7" : 768454018,
+          "placeId" : "ChIJ1VC3BN-SDzkRPkiIEy5RG6w",
+          "locationConfidence" : 4.1763434
+        }, {
+          "latitudeE7" : 307293863,
+          "longitudeE7" : 768430781,
+          "placeId" : "ChIJ6WeI2N6SDzkR9l9mraAz2Ug",
+          "locationConfidence" : 1.4845874
+        }, {
+          "latitudeE7" : 307289245,
+          "longitudeE7" : 768455189,
+          "placeId" : "ChIJbS4tG9-SDzkRahVFqYJEpzE",
+          "locationConfidence" : 0.8745713
+        }, {
+          "latitudeE7" : 307290686,
+          "longitudeE7" : 768455970,
+          "placeId" : "ChIJvTn7BN-SDzkRnXZHmdCJ-tE",
+          "locationConfidence" : 0.7796315
+        }, {
+          "latitudeE7" : 307288605,
+          "longitudeE7" : 768450710,
+          "placeId" : "ChIJ5bnYG9-SDzkRIwRiL1vkNW0",
+          "locationConfidence" : 0.73507935
+        }, {
+          "latitudeE7" : 307286927,
+          "longitudeE7" : 768452645,
+          "placeId" : "ChIJj-e9Gt-SDzkRKEY_9pmoXZI",
+          "locationConfidence" : 0.68524736
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 307286600,
+      "centerLngE7" : 768455000,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 2.8509803
+      }, {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "name" : "Infosys SDB-1",
+        "locationConfidence" : 0.47731596
+      }, {
+        "latitudeE7" : 307293863,
+        "longitudeE7" : 768430781,
+        "placeId" : "ChIJ6WeI2N6SDzkR9l9mraAz2Ug",
+        "locationConfidence" : 0.29975033
+      }, {
+        "latitudeE7" : 307290867,
+        "longitudeE7" : 768448103,
+        "placeId" : "ChIJG1tfAd-SDzkRhjtECYrCSRY",
+        "locationConfidence" : 0.011281653
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307279164,
+        "longitudeE7" : 768455860
+      },
+      "endLocation" : {
+        "latitudeE7" : 307123431,
+        "longitudeE7" : 768290369
+      },
+      "duration" : {
+        "startTimestampMs" : "1584004910689",
+        "endTimestampMs" : "1584005884097"
+      },
+      "distance" : 3695,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 62.30511665344238
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 24.447984993457794
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.30851548910141
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.7467321828007698
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.2087097391486168
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5997225176542997
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.25318379048258066
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05205674096941948
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03600583004299551
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.021325873967725784
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.010079525964101776
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005755689198849723
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0036824141716351733
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.96525671123527E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.3045176931191236E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307277774,
+          "lngE7" : 768452072
+        }, {
+          "latE7" : 307254810,
+          "lngE7" : 768462600
+        }, {
+          "latE7" : 307248554,
+          "lngE7" : 768446426
+        }, {
+          "latE7" : 307197818,
+          "lngE7" : 768252868
+        }, {
+          "latE7" : 307122955,
+          "lngE7" : 768290863
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307249298,
+          "lngE7" : 768448486,
+          "timestampMs" : "1584005412290",
+          "accuracyMeters" : 50
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 94.10257
+      },
+      "duration" : {
+        "startTimestampMs" : "1584005884097",
+        "endTimestampMs" : "1584006446831"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122633,
+      "centerLngE7" : 768289883,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.681492
+      }, {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.449979
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.16310039
+      }, {
+        "latitudeE7" : 307101441,
+        "longitudeE7" : 768289013,
+        "placeId" : "ChIJRTkpqTOTDzkRAWFkU-JyqcQ",
+        "locationConfidence" : 0.11832267
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307123685,
+        "longitudeE7" : 768291524
+      },
+      "endLocation" : {
+        "latitudeE7" : 307274289,
+        "longitudeE7" : 768448347
+      },
+      "duration" : {
+        "startTimestampMs" : "1584006446831",
+        "endTimestampMs" : "1584007201196"
+      },
+      "distance" : 3526,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.67370867729187
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.260756939649582
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 6.21161162853241
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9285308420658112
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.3546349471434951
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.33034756779670715
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1417908468283713
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.03615684399846941
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.024638851755298674
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.023974063515197486
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006288223812589422
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0038081092498032376
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002634023257996887
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0010487307918083388
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.914891284599435E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307123546,
+          "lngE7" : 768291702
+        }, {
+          "latE7" : 307197818,
+          "lngE7" : 768252868
+        }, {
+          "latE7" : 307275180,
+          "lngE7" : 768450698
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 81.79217
+      },
+      "duration" : {
+        "startTimestampMs" : "1584007201196",
+        "endTimestampMs" : "1584017422527"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307268483,
+      "centerLngE7" : 768450568,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 17.346489
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.68775666
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.06720275
+      }, {
+        "latitudeE7" : 307284565,
+        "longitudeE7" : 768449446,
+        "placeId" : "ChIJo9s9fmWTDzkRr2WzwQ1Lzy0",
+        "locationConfidence" : 0.051146097
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307267606,
+        "longitudeE7" : 768450657
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122330,
+        "longitudeE7" : 768289348
+      },
+      "duration" : {
+        "startTimestampMs" : "1584017422527",
+        "endTimestampMs" : "1584018362179"
+      },
+      "distance" : 2897,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.82366442680359
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.3953618481755257
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.8161429092288017
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4507723730057478
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2775621833279729
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.10018445318564773
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05204965709708631
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03766638692468405
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.023489283921662718
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.011105530575150624
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005811655501020141
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.003661380833364092
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0016518650227226317
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.524056283931714E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.6992722723662155E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307268810,
+          "lngE7" : 768453903
+        }, {
+          "latE7" : 307254810,
+          "lngE7" : 768462600
+        }, {
+          "latE7" : 307273159,
+          "lngE7" : 768413467
+        }, {
+          "latE7" : 307197818,
+          "lngE7" : 768252868
+        }, {
+          "latE7" : 307122344,
+          "lngE7" : 768289337
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307267609,
+          "lngE7" : 768410721,
+          "timestampMs" : "1584017864308",
+          "accuracyMeters" : 78
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.70444
+      },
+      "duration" : {
+        "startTimestampMs" : "1584018362179",
+        "endTimestampMs" : "1584066318281"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122523,
+      "centerLngE7" : 768289255,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.1744595
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.5856466
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.14929089
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.09296852
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307123206,
+        "longitudeE7" : 768287073
+      },
+      "endLocation" : {
+        "latitudeE7" : 307275425,
+        "longitudeE7" : 768134546
+      },
+      "duration" : {
+        "startTimestampMs" : "1584066318281",
+        "endTimestampMs" : "1584066682202"
+      },
+      "distance" : 2380,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.25181746482849
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.9755597934126854
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.4935211278498173
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5808373913168907
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3894953755661845
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0866512127686292
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.07407267694361508
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06778302486054599
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0576574238948524
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.010667118476703763
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005921856427448802
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004664369043894112
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 9.78012667474104E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.5525663406588137E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.008492856475641E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307123813,
+          "lngE7" : 768287887
+        }, {
+          "latE7" : 307218360,
+          "lngE7" : 768190765
+        }, {
+          "latE7" : 307275333,
+          "lngE7" : 768134613
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307287833,
+        "longitudeE7" : 768129291,
+        "placeId" : "ChIJ____PyTtDzkRvhlAs6z8KRk",
+        "address" : "Sector 26\nChandigarh, 160019\nIndia",
+        "name" : "Strawberry Fields High School",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 50.34438
+      },
+      "duration" : {
+        "startTimestampMs" : "1584066682202",
+        "endTimestampMs" : "1584067049208"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307277350,
+      "centerLngE7" : 768131700,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307284068,
+        "longitudeE7" : 768134468,
+        "placeId" : "ChIJE93NCCbtDzkRMjOUZtsEtHc",
+        "locationConfidence" : 35.585594
+      }, {
+        "latitudeE7" : 307285010,
+        "longitudeE7" : 768120880,
+        "placeId" : "ChIJV5ugeSbtDzkRY0CIc-IY4l8",
+        "locationConfidence" : 9.944183
+      }, {
+        "latitudeE7" : 307309550,
+        "longitudeE7" : 768118597,
+        "placeId" : "ChIJ____PyTtDzkR_S96fVkS8zs",
+        "locationConfidence" : 2.436081
+      }, {
+        "latitudeE7" : 307295990,
+        "longitudeE7" : 768105262,
+        "placeId" : "ChIJF04THyTtDzkRLlUCapcr5ls",
+        "locationConfidence" : 0.85847497
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307279324,
+        "longitudeE7" : 768128951
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122284,
+        "longitudeE7" : 768289668
+      },
+      "duration" : {
+        "startTimestampMs" : "1584067049208",
+        "endTimestampMs" : "1584067422851"
+      },
+      "distance" : 2446,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.00113725662231
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.275431528687477
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.4492410235106945
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6219419185072184
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.39612604305148125
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0827649375423789
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06930148811079562
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.048696770681999624
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.035273691173642874
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.008433662878815085
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0065259242546744645
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.004049088238389231
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.290541023190599E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.348565653344849E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.132555809135738E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307277412,
+          "lngE7" : 768125839
+        }, {
+          "latE7" : 307200279,
+          "lngE7" : 768228149
+        }, {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.42153
+      },
+      "duration" : {
+        "startTimestampMs" : "1584067422851",
+        "endTimestampMs" : "1584074078274"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122179,
+      "centerLngE7" : 768289023,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.2827284
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.6669402
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.16876194
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.10439589
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122257,
+        "longitudeE7" : 768289521
+      },
+      "endLocation" : {
+        "latitudeE7" : 307273708,
+        "longitudeE7" : 768452532
+      },
+      "duration" : {
+        "startTimestampMs" : "1584074078274",
+        "endTimestampMs" : "1584074941190"
+      },
+      "distance" : 2931,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.32724523544312
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.3963079079985619
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.3387972488999367
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4291723482310772
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3440299304202199
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07060543866828084
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03913625259883702
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.02235738793388009
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014690244279336184
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.008904859714675695
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004140318924328312
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0030298066121758893
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.820306331675965E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.792579031549394E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.4964966510433442E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122230,
+          "lngE7" : 768289489
+        }, {
+          "latE7" : 307197818,
+          "lngE7" : 768252868
+        }, {
+          "latE7" : 307283058,
+          "lngE7" : 768446578
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 80.36541
+      },
+      "duration" : {
+        "startTimestampMs" : "1584074941190",
+        "endTimestampMs" : "1584082288377"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307268553,
+      "centerLngE7" : 768450524,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 18.928621
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.48206747
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.091085754
+      }, {
+        "latitudeE7" : 307271914,
+        "longitudeE7" : 768466548,
+        "placeId" : "ChIJAQAAQADtDzkRO6t05Wz_c-M",
+        "locationConfidence" : 0.061487135
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307272881,
+        "longitudeE7" : 768455992
+      },
+      "endLocation" : {
+        "latitudeE7" : 307409756,
+        "longitudeE7" : 767784517
+      },
+      "duration" : {
+        "startTimestampMs" : "1584082288377",
+        "endTimestampMs" : "1584083883106"
+      },
+      "distance" : 7481,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.12229943275452
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 3.6534301936626434
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.9234707355499268
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.3359308242797852
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.5476401187479496
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.19084978848695755
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.057933537755161524
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0499286747071892
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04382206534501165
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.03407452895771712
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.02970708883367479
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005067106758360751
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0032435138564324006
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0023535061700385995
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.5138119781331625E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307272434,
+          "lngE7" : 768454742
+        }, {
+          "latE7" : 307309722,
+          "lngE7" : 768304214
+        }, {
+          "latE7" : 307310409,
+          "lngE7" : 768059921
+        }, {
+          "latE7" : 307320327,
+          "lngE7" : 768044204
+        }, {
+          "latE7" : 307361488,
+          "lngE7" : 768009643
+        }, {
+          "latE7" : 307370014,
+          "lngE7" : 767999572
+        }, {
+          "latE7" : 307420158,
+          "lngE7" : 767955245
+        }, {
+          "latE7" : 307461872,
+          "lngE7" : 767855758
+        }, {
+          "latE7" : 307398662,
+          "lngE7" : 767772750
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307311916,
+          "lngE7" : 768058701,
+          "timestampMs" : "1584083014544",
+          "accuracyMeters" : 87
+        }, {
+          "latE7" : 307361565,
+          "lngE7" : 768009796,
+          "timestampMs" : "1584083137994",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 307420235,
+          "lngE7" : 767955322,
+          "timestampMs" : "1584083259020",
+          "accuracyMeters" : 31
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307411672,
+        "longitudeE7" : 767787896,
+        "placeId" : "ChIJ68ubEKDtDzkR3VBvFy42Kd0",
+        "address" : "New\nAdditional Deluxe Building\nJan Marg\n17E, Sector 17\nChandigarh, 160017\nIndia",
+        "name" : "Municipal Corporation Chandigarh",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.362175
+      },
+      "duration" : {
+        "startTimestampMs" : "1584083883106",
+        "endTimestampMs" : "1584089309871"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 307409303,
+          "longitudeE7" : 767783199,
+          "placeId" : "ChIJq5jPP6DtDzkRuBR39WwnPUQ",
+          "address" : "7, Jan Marg\n17E, Sector 17\nChandigarh, 160017\nIndia",
+          "name" : "Registering And Licence Authority",
+          "sourceInfo" : {
+            "deviceTag" : 1618641238
+          },
+          "locationConfidence" : 88.01919
+        },
+        "duration" : {
+          "startTimestampMs" : "1584083883106",
+          "endTimestampMs" : "1584089309871"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 307410862,
+        "centerLngE7" : 767785768,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 307413460,
+          "longitudeE7" : 767785551,
+          "placeId" : "ChIJMcUySKDtDzkRw2uBBuuyEC8",
+          "locationConfidence" : 3.0620623
+        }, {
+          "latitudeE7" : 307409804,
+          "longitudeE7" : 767786605,
+          "placeId" : "ChIJ4SXGuBbtDzkRI-RS1VjOPFo",
+          "locationConfidence" : 2.1858897
+        }, {
+          "latitudeE7" : 307413623,
+          "longitudeE7" : 767795224,
+          "placeId" : "ChIJhQ7zF6DtDzkRXjKxSnM5dtA",
+          "locationConfidence" : 1.1261406
+        }, {
+          "latitudeE7" : 307402926,
+          "longitudeE7" : 767782525,
+          "placeId" : "ChIJq6qqqgvtDzkRJ6L6Vv8BmWc",
+          "locationConfidence" : 0.6017535
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 307410862,
+      "centerLngE7" : 767785768,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307409804,
+        "longitudeE7" : 767786605,
+        "placeId" : "ChIJ4SXGuBbtDzkRI-RS1VjOPFo",
+        "locationConfidence" : 2.3682473
+      }, {
+        "latitudeE7" : 307413623,
+        "longitudeE7" : 767795224,
+        "placeId" : "ChIJhQ7zF6DtDzkRXjKxSnM5dtA",
+        "locationConfidence" : 1.2200886
+      }, {
+        "latitudeE7" : 307402926,
+        "longitudeE7" : 767782525,
+        "placeId" : "ChIJq6qqqgvtDzkRJ6L6Vv8BmWc",
+        "locationConfidence" : 0.6519547
+      }, {
+        "latitudeE7" : 307410517,
+        "longitudeE7" : 767790150,
+        "placeId" : "ChIJ3SWhu83tDzkRLsFA64bvV4A",
+        "locationConfidence" : 0.15244466
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307404809,
+        "longitudeE7" : 767778425
+      },
+      "endLocation" : {
+        "latitudeE7" : 307270016,
+        "longitudeE7" : 768453291
+      },
+      "duration" : {
+        "startTimestampMs" : "1584089309871",
+        "endTimestampMs" : "1584090568307"
+      },
+      "distance" : 7342,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 83.58820080757141
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.874819427728653
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.5687729716300964
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.514619380235672
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.038357987999916
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.17513666534796357
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.08759465417824686
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0633705931250006
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03395196981728077
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.027877246611751616
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.020026916172355413
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0032671901863068342
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0021184750949032605
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0015098191397555638
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.690559424285311E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307404003,
+          "lngE7" : 767779083
+        }, {
+          "latE7" : 307537822,
+          "lngE7" : 767968902
+        }, {
+          "latE7" : 307270011,
+          "lngE7" : 768453292
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 81.21752
+      },
+      "duration" : {
+        "startTimestampMs" : "1584090568307",
+        "endTimestampMs" : "1584096405346"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307269514,
+      "centerLngE7" : 768449881,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 17.351332
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 1.1516643
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.109853484
+      }, {
+        "latitudeE7" : 307293863,
+        "longitudeE7" : 768430781,
+        "placeId" : "ChIJ6WeI2N6SDzkR9l9mraAz2Ug",
+        "locationConfidence" : 0.062347
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307276913,
+        "longitudeE7" : 768446476
+      },
+      "endLocation" : {
+        "latitudeE7" : 307613080,
+        "longitudeE7" : 767884951
+      },
+      "duration" : {
+        "startTimestampMs" : "1584096405346",
+        "endTimestampMs" : "1584097745906"
+      },
+      "distance" : 7307,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.43061542510986
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.360176995396614
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.3052799738943577
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.206349115818739
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2872035373002291
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2730804495513439
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0548497075214982
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02112541696988046
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018653046572580934
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.018448771152179688
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007514833123423159
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006548299279529601
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005251525362837128
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004772416650666855
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.3285589375300333E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307277946,
+          "lngE7" : 768449249
+        }, {
+          "latE7" : 307254810,
+          "lngE7" : 768462600
+        }, {
+          "latE7" : 307275142,
+          "lngE7" : 768408050
+        }, {
+          "latE7" : 307535362,
+          "lngE7" : 767969207
+        }, {
+          "latE7" : 307613277,
+          "lngE7" : 767884826
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307269878,
+          "lngE7" : 768405457,
+          "timestampMs" : "1584096775640",
+          "accuracyMeters" : 31
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307625287,
+        "longitudeE7" : 767883946,
+        "placeId" : "ChIJhy85VnztDzkRe3PDBBcqqRo",
+        "address" : "Sector 11-A, Sector 11\nChandigarh, 160011\nIndia",
+        "name" : "Gurudwara Sahib",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 62.447773
+      },
+      "duration" : {
+        "startTimestampMs" : "1584097745906",
+        "endTimestampMs" : "1584098115896"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 307620625,
+      "centerLngE7" : 767884851,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307609452,
+        "longitudeE7" : 767858262,
+        "placeId" : "ChIJqZwmHHztDzkR5f1C8f-eHiM",
+        "locationConfidence" : 18.480272
+      }, {
+        "latitudeE7" : 307641600,
+        "longitudeE7" : 767882110,
+        "placeId" : "ChIJt_QSoX3tDzkRxl4shK1_AEQ",
+        "locationConfidence" : 3.2900743
+      }, {
+        "latitudeE7" : 307640227,
+        "longitudeE7" : 767881304,
+        "placeId" : "ChIJb2Krpn3tDzkRyIoWqv6VtpQ",
+        "locationConfidence" : 3.1685781
+      }, {
+        "latitudeE7" : 307608442,
+        "longitudeE7" : 767891577,
+        "placeId" : "ChIJb9cwhXztDzkRYPrAOMgX7Cw",
+        "locationConfidence" : 3.009456
+      }, {
+        "latitudeE7" : 307613467,
+        "longitudeE7" : 767862068,
+        "placeId" : "ChIJkbGbPXztDzkRnG0x2xLVkvY",
+        "locationConfidence" : 1.685368
+      }, {
+        "latitudeE7" : 307615670,
+        "longitudeE7" : 767885040,
+        "placeId" : "ChIJv_SuinztDzkRtovLq1xNiec",
+        "locationConfidence" : 1.5859035
+      }, {
+        "latitudeE7" : 307621185,
+        "longitudeE7" : 767876640,
+        "placeId" : "ChIJaYmJT3ztDzkRfplrgyvgcYg",
+        "locationConfidence" : 1.5381479
+      }, {
+        "latitudeE7" : 307605779,
+        "longitudeE7" : 767870252,
+        "placeId" : "ChIJ____P3ntDzkRB4aBXH9qzz0",
+        "locationConfidence" : 1.5268912
+      }, {
+        "latitudeE7" : 307607814,
+        "longitudeE7" : 767874229,
+        "placeId" : "ChIJD0bsbXztDzkRxxwfq1R7EIY",
+        "locationConfidence" : 1.3302627
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307620625,
+        "longitudeE7" : 767884851
+      },
+      "endLocation" : {
+        "latitudeE7" : 307122296,
+        "longitudeE7" : 768289432
+      },
+      "duration" : {
+        "startTimestampMs" : "1584098115896",
+        "endTimestampMs" : "1584099481186"
+      },
+      "distance" : 6972,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.82425737380981
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.780006408691406
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.7238350585103035
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.31146851927042
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2123320009559393
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06931839743629098
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0364380597602576
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015173082647379488
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.009550310642225668
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009353285713586956
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0026374631488579325
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0025877236112137325
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0021002066205255687
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 8.946031812229194E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.339560177868407E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307621288,
+          "lngE7" : 767884216
+        }, {
+          "latE7" : 307537822,
+          "lngE7" : 767968902
+        }, {
+          "latE7" : 307133522,
+          "lngE7" : 768291015
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.10357
+      },
+      "duration" : {
+        "startTimestampMs" : "1584099481186",
+        "endTimestampMs" : "1584271193042"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122672,
+      "centerLngE7" : 768289259,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.0081775
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4145315
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13242929
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.080790095
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122301,
+        "longitudeE7" : 768289575
+      },
+      "endLocation" : {
+        "latitudeE7" : 307158250,
+        "longitudeE7" : 768317034
+      },
+      "duration" : {
+        "startTimestampMs" : "1584271193042",
+        "endTimestampMs" : "1584272480953"
+      },
+      "distance" : 1980,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.78908061981201
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.263360798358917
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.9946917444467545
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4876168221235275
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3311005188152194
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06110749673098326
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.023645081091672182
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.023370326380245388
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.01511691662017256
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004334488767199218
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0037937268643872812
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0025039975298568606
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.380044977850048E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.2163891369709745E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.23149690631908E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122039,
+          "lngE7" : 768289642
+        }, {
+          "latE7" : 307107772,
+          "lngE7" : 768309097
+        }, {
+          "latE7" : 307096881,
+          "lngE7" : 768333129
+        }, {
+          "latE7" : 307139644,
+          "lngE7" : 768302078
+        }, {
+          "latE7" : 307131729,
+          "lngE7" : 768267288
+        }, {
+          "latE7" : 307121353,
+          "lngE7" : 768328704
+        }, {
+          "latE7" : 307158451,
+          "lngE7" : 768317413
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307097321,
+          "lngE7" : 768333206,
+          "timestampMs" : "1584271868852",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 307132568,
+          "lngE7" : 768268433,
+          "timestampMs" : "1584272117873",
+          "accuracyMeters" : 31
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307158056,
+        "longitudeE7" : 768317817,
+        "placeId" : "ChIJS2kedy6TDzkRGwn9ClJXFIg",
+        "address" : "Modern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "MHC Market",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 88.67073
+      },
+      "duration" : {
+        "startTimestampMs" : "1584272480953",
+        "endTimestampMs" : "1584274001208"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 307158536,
+      "centerLngE7" : 768317350,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307157811,
+        "longitudeE7" : 768319818,
+        "placeId" : "ChIJf1Phdi6TDzkRspfk0v-T6WA",
+        "locationConfidence" : 6.0428314
+      }, {
+        "latitudeE7" : 307160181,
+        "longitudeE7" : 768316908,
+        "placeId" : "ChIJ____vy2TDzkR4-rM_N9ir7k",
+        "locationConfidence" : 1.7463446
+      }, {
+        "latitudeE7" : 307159379,
+        "longitudeE7" : 768318383,
+        "placeId" : "ChIJ8WuMdy6TDzkRvymlzFr9nCg",
+        "locationConfidence" : 1.067261
+      }, {
+        "latitudeE7" : 307158920,
+        "longitudeE7" : 768317730,
+        "placeId" : "ChIJn-Hldy6TDzkR8_mhKVe-E14",
+        "locationConfidence" : 0.36798632
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307158600,
+        "longitudeE7" : 768317434
+      },
+      "endLocation" : {
+        "latitudeE7" : 307123417,
+        "longitudeE7" : 768289510
+      },
+      "duration" : {
+        "startTimestampMs" : "1584274001208",
+        "endTimestampMs" : "1584274243297"
+      },
+      "distance" : 724,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.96301603317261
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.4960930943489075
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.781635358929634
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.45115891844034195
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.1986232353374362
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04594008205458522
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.026964227436110377
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.014631866361014545
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014086450391914696
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.003123070200672373
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.003019268115167506
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0014727478628628887
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.3297125178723945E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0143185136257671E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.8881808117043875E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307158546,
+          "lngE7" : 768317337
+        }, {
+          "latE7" : 307121334,
+          "lngE7" : 768330841
+        }, {
+          "latE7" : 307122898,
+          "lngE7" : 768288803
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.09932
+      },
+      "duration" : {
+        "startTimestampMs" : "1584274243297",
+        "endTimestampMs" : "1584347868244"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122495,
+      "centerLngE7" : 768289324,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.9499751
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.5484535
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.119986944
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.07580093
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122375,
+        "longitudeE7" : 768290074
+      },
+      "endLocation" : {
+        "latitudeE7" : 307270921,
+        "longitudeE7" : 768452914
+      },
+      "duration" : {
+        "startTimestampMs" : "1584347868244",
+        "endTimestampMs" : "1584348484686"
+      },
+      "distance" : 2335,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.82368731498718
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.0117130130529404
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4019613154232502
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4052333068102598
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.19937444012612104
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0578282808419317
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.04115380870644003
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.021552375983446836
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.016322270676027983
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.009931738168234006
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.005163074820302427
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003319370807730593
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001406450701324502
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001351843911834294
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0883753276402786E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122383,
+          "lngE7" : 768290100
+        }, {
+          "latE7" : 307310523,
+          "lngE7" : 768299560
+        }, {
+          "latE7" : 307270908,
+          "lngE7" : 768452835
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307268505,
+        "longitudeE7" : 768450394,
+        "placeId" : "ChIJ6-v5Qd-SDzkRhf6i9NIUjg0",
+        "address" : "Infosys SDB-1\nPhase - I, Manimajra\nChandigarh, Haryana 160101\nIndia",
+        "name" : "Infosys SDB-1",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 81.24843
+      },
+      "duration" : {
+        "startTimestampMs" : "1584348484686",
+        "endTimestampMs" : "1584356236235"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307268759,
+      "centerLngE7" : 768450329,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307275903,
+        "longitudeE7" : 768446617,
+        "placeId" : "ChIJH2mMF6btDzkRV1JxJr6kYLM",
+        "locationConfidence" : 17.524294
+      }, {
+        "latitudeE7" : 307288586,
+        "longitudeE7" : 768454261,
+        "placeId" : "ChIJD5POGd-SDzkRIbYfdVJyUcI",
+        "locationConfidence" : 0.9590054
+      }, {
+        "latitudeE7" : 307284565,
+        "longitudeE7" : 768449446,
+        "placeId" : "ChIJo9s9fmWTDzkRr2WzwQ1Lzy0",
+        "locationConfidence" : 0.14817694
+      }, {
+        "latitudeE7" : 307251730,
+        "longitudeE7" : 768463640,
+        "placeId" : "ChIJQ0MizyGTDzkRsmpN7ZM96_I",
+        "locationConfidence" : 0.06375485
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307262398,
+        "longitudeE7" : 768454852
+      },
+      "endLocation" : {
+        "latitudeE7" : 307123092,
+        "longitudeE7" : 768289441
+      },
+      "duration" : {
+        "startTimestampMs" : "1584356236235",
+        "endTimestampMs" : "1584356734256"
+      },
+      "distance" : 3110,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.8017327785492
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 4.683663696050644
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.342790737748146
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5267417524009943
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3113797400146723
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.12575880391523242
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07792958058416843
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.057647289941087365
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.030957130366005003
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02269982942380011
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.012240710202604532
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0027343145120539702
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0026156340027227998
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0010333265890949406
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.382317335213884E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307263031,
+          "lngE7" : 768456726
+        }, {
+          "latE7" : 307309722,
+          "lngE7" : 768304214
+        }, {
+          "latE7" : 307122745,
+          "lngE7" : 768288955
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.31378
+      },
+      "duration" : {
+        "startTimestampMs" : "1584356734256",
+        "endTimestampMs" : "1584362046725"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122633,
+      "centerLngE7" : 768289393,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.1921504
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.9853715
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13275449
+      }, {
+        "latitudeE7" : 307139740,
+        "longitudeE7" : 768268990,
+        "placeId" : "ChIJOZ8jWy2TDzkRdf3Zex2vMaA",
+        "locationConfidence" : 0.09682045
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307122760,
+        "longitudeE7" : 768289409
+      },
+      "endLocation" : {
+        "latitudeE7" : 307121950,
+        "longitudeE7" : 768289935
+      },
+      "duration" : {
+        "startTimestampMs" : "1584362046725",
+        "endTimestampMs" : "1584365432865"
+      },
+      "distance" : 2619,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 68.33680868148804
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.43683472275734
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 9.16639268398285
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.08784568309784
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.5396123975515366
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.17442010575905442
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.08090031333267689
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.07711418438702822
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.053445028606802225
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.022302818251773715
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01205509397550486
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006123063212726265
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0058652458392316476
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.6942640286288224E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.1638578598649474E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122554,
+          "lngE7" : 768289108
+        }, {
+          "latE7" : 307129516,
+          "lngE7" : 768264389
+        }, {
+          "latE7" : 307129516,
+          "lngE7" : 768264389
+        }, {
+          "latE7" : 307104625,
+          "lngE7" : 768305435
+        }, {
+          "latE7" : 307097053,
+          "lngE7" : 768331985
+        }, {
+          "latE7" : 307119197,
+          "lngE7" : 768325958
+        }, {
+          "latE7" : 307121849,
+          "lngE7" : 768289794
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307128220,
+          "lngE7" : 768266983,
+          "timestampMs" : "1584363563268",
+          "accuracyMeters" : 87
+        }, {
+          "latE7" : 307097893,
+          "lngE7" : 768332138,
+          "timestampMs" : "1584364784384",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.96315
+      },
+      "duration" : {
+        "startTimestampMs" : "1584365432865",
+        "endTimestampMs" : "1584515879901"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122372,
+      "centerLngE7" : 768288989,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 2.022012
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.47267
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.14663738
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.08586524
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307121585,
+        "longitudeE7" : 768289804
+      },
+      "endLocation" : {
+        "latitudeE7" : 307082443,
+        "longitudeE7" : 768381792
+      },
+      "duration" : {
+        "startTimestampMs" : "1584515879901",
+        "endTimestampMs" : "1584516749381"
+      },
+      "distance" : 1653,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 85.6257438659668
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.859348714351654
+      }, {
+        "activityType" : "STILL",
+        "probability" : 4.071493819355965
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.83480903506279
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3650206848978996
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0784043688327074
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05934788496233523
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.05279012839309871
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.015361554687842727
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.012615026207640767
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.011210989760002121
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.010836479486897588
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0019357008568476886
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0010327339623472653
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.011963821743848E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307121715,
+          "lngE7" : 768289947
+        }, {
+          "latE7" : 307088260,
+          "lngE7" : 768384933
+        }, {
+          "latE7" : 307082958,
+          "lngE7" : 768380813
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307088480,
+        "longitudeE7" : 768383190,
+        "placeId" : "ChIJz5T4IzqTDzkRl2qPlOXfZyo",
+        "address" : "Housing Board Chowk\nChandigarh - Panchkula Rd\nManimajra\nChandigarh, 160101\nIndia",
+        "name" : "Housing Board Chowk",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 37.608833
+      },
+      "duration" : {
+        "startTimestampMs" : "1584516749381",
+        "endTimestampMs" : "1584517126203"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 307080875,
+      "centerLngE7" : 768379050,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307075880,
+        "longitudeE7" : 768360300,
+        "placeId" : "ChIJwWmsODeTDzkRI2_AiQT5cJk",
+        "locationConfidence" : 19.066315
+      }, {
+        "latitudeE7" : 307080810,
+        "longitudeE7" : 768383169,
+        "placeId" : "ChIJY4A3FTeTDzkRU02SQ6bySTk",
+        "locationConfidence" : 12.986383
+      }, {
+        "latitudeE7" : 307073289,
+        "longitudeE7" : 768378452,
+        "placeId" : "ChIJNyyz3TmTDzkRtQWahS_fXS4",
+        "locationConfidence" : 5.422716
+      }, {
+        "latitudeE7" : 307098651,
+        "longitudeE7" : 768384326,
+        "placeId" : "ChIJtXkNETqTDzkRTpFVJ8mZ8YE",
+        "locationConfidence" : 4.430607
+      }, {
+        "latitudeE7" : 307079050,
+        "longitudeE7" : 768382820,
+        "placeId" : "ChIJGZR0rTGTDzkRIBP_xiM42Yo",
+        "locationConfidence" : 3.9811873
+      }, {
+        "latitudeE7" : 307089420,
+        "longitudeE7" : 768391940,
+        "placeId" : "ChIJ4zh0ijmTDzkRuP2TM_iskWk",
+        "locationConfidence" : 3.9043834
+      }, {
+        "latitudeE7" : 307077614,
+        "longitudeE7" : 768378240,
+        "placeId" : "ChIJtwbAxjmTDzkRv7Atb9DjK9A",
+        "locationConfidence" : 3.640596
+      }, {
+        "latitudeE7" : 307086224,
+        "longitudeE7" : 768364692,
+        "placeId" : "ChIJeT4tSzeTDzkRp9j-0R2CNT0",
+        "locationConfidence" : 2.688923
+      }, {
+        "latitudeE7" : 307101301,
+        "longitudeE7" : 768373401,
+        "placeId" : "ChIJGZR0rTGTDzkR4ndneXb0ZoM",
+        "locationConfidence" : 1.5705827
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307082443,
+        "longitudeE7" : 768381792
+      },
+      "endLocation" : {
+        "latitudeE7" : 307123234,
+        "longitudeE7" : 768290291
+      },
+      "duration" : {
+        "startTimestampMs" : "1584517126203",
+        "endTimestampMs" : "1584518109667"
+      },
+      "distance" : 2506,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 85.60379147529602
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.708029866218567
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.56899793446064
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.8187223002314568
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0808423161506653
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07154461345635355
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.05947622121311724
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.04391347465571016
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01858707400970161
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.013092799053993076
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.00646708722342737
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005107240212964825
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.832274372456595E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 4.013730631413637E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.5378283769205154E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307082958,
+          "lngE7" : 768380813
+        }, {
+          "latE7" : 307059612,
+          "lngE7" : 768381118
+        }, {
+          "latE7" : 307099113,
+          "lngE7" : 768316345
+        }, {
+          "latE7" : 307077598,
+          "lngE7" : 768357620
+        }, {
+          "latE7" : 307078113,
+          "lngE7" : 768359451
+        }, {
+          "latE7" : 307119197,
+          "lngE7" : 768325958
+        }, {
+          "latE7" : 307122840,
+          "lngE7" : 768290710
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307102051,
+          "lngE7" : 768317566,
+          "timestampMs" : "1584517247275",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 307074242,
+          "lngE7" : 768360901,
+          "timestampMs" : "1584517622243",
+          "accuracyMeters" : 98
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 95.97497
+      },
+      "duration" : {
+        "startTimestampMs" : "1584518109667",
+        "endTimestampMs" : "1584698419353"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307122021,
+      "centerLngE7" : 768289664,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.8978806
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.7116953
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.11820336
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.07875483
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 307123181,
+        "longitudeE7" : 768289375
+      },
+      "endLocation" : {
+        "latitudeE7" : 307121526,
+        "longitudeE7" : 768290046
+      },
+      "duration" : {
+        "startTimestampMs" : "1584698419353",
+        "endTimestampMs" : "1584701268406"
+      },
+      "distance" : 1816,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 55.268239974975586
+      }, {
+        "activityType" : "STILL",
+        "probability" : 17.342276871204376
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 14.849412441253662
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.594488471746445
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6687978282570839
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0950458983425051
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06087630754336715
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.060465646674856544
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.033595788409002125
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.009995302389143035
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006964793283259496
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005589583815890364
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004087753040948883
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.0460888688612613E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.053133461136895E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 307122840,
+          "lngE7" : 768288879
+        }, {
+          "latE7" : 307121887,
+          "lngE7" : 768279037
+        }, {
+          "latE7" : 307129516,
+          "lngE7" : 768264389
+        }, {
+          "latE7" : 307150478,
+          "lngE7" : 768291397
+        }, {
+          "latE7" : 307132873,
+          "lngE7" : 768330078
+        }, {
+          "latE7" : 307121334,
+          "lngE7" : 768330841
+        }, {
+          "latE7" : 307121582,
+          "lngE7" : 768290100
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 307129898,
+          "lngE7" : 768264236,
+          "timestampMs" : "1584700281069",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 307132645,
+          "lngE7" : 768328552,
+          "timestampMs" : "1584701026284",
+          "accuracyMeters" : 33
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 307121420,
+        "longitudeE7" : 768288230,
+        "placeId" : "ChIJGW2sijKTDzkRv5Z52isBdow",
+        "address" : "6032\nModern Housing Complex, Manimajra\nChandigarh, 160101\nIndia",
+        "name" : "6032",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 1618641238
+        },
+        "locationConfidence" : 96.01949
+      },
+      "duration" : {
+        "startTimestampMs" : "1584701268406",
+        "endTimestampMs" : "1585544667229"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 307121491,
+      "centerLngE7" : 768289285,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 307131790,
+        "longitudeE7" : 768308069,
+        "placeId" : "ChIJj3hRDjKTDzkRrOY3q9q59yE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.9940015
+      }, {
+        "latitudeE7" : 307121910,
+        "longitudeE7" : 768291250,
+        "placeId" : "ChIJyfSiYDKTDzkRZlvjmtxi8pQ",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 1.4839731
+      }, {
+        "latitudeE7" : 307120170,
+        "longitudeE7" : 768279800,
+        "placeId" : "ChIJG4Iu7TKTDzkRnsCgFa5knts",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.1415513
+      }, {
+        "latitudeE7" : 307136560,
+        "longitudeE7" : 768293090,
+        "placeId" : "ChIJGS5qhy2TDzkR5ueyyZgTGM0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.07996631
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
